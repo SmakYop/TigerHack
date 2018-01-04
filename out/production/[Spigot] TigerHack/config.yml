@@ -1,0 +1,85 @@
+########################################################
+#                 TigerHack | Anti-Cheat               #
+########################################################
+
+General:
+  Prefix: '&7[&cTigerHack&7]'
+  PrefixStaff: '&e(&c&lTigerLog&e)'
+
+# Database configuration
+# You can activate or desactivate the database.
+# Recommanded if you are 2 or more servers and if you using Bungeecord
+Database:
+  enabled: false
+  user: user
+  url: jdbc:mysql://localhost/database_name
+  password: password
+
+
+# You can enable or disable the AutoBan.
+AutoBan: true
+OpPlayerCanBeBanned: false
+
+# Send an alert when a player is suspected
+AlertStaff: true
+
+
+# Firework configuration
+# If it's enabled, a firework will spawn at the location of the player when
+# he gets banned
+Firework:
+  enabled: true
+
+# Broadcast configuration
+# If it's enabled, a broadcast will be sended when a player is banned
+# %reason% > reason | %player% > banned player
+BroadcastOnBan:
+  enabled: true
+  message: '&7[&cTigerHack&7] &e%player% &7has been banned for: &c%reason%'
+
+Message:
+  alertMessage: '%prefixstaff% &7%player% &eattempted: &6%cheatreason% &7(&c%playerping% &7ms | &c%violation% &7VL)'
+  noPermission: '&4No permission.'
+
+
+# Bungeecord support is coming soon..
+Bungeecord:
+  enabled: false
+
+
+# ---  Cheats Configuration  --- #
+# Forcefield (= Killaura : Reach & Aimbot)
+
+CheatsConfiguration:
+  Forcefield:
+      enabled: true
+      autoban: true
+      alert: true
+      VLForBan: 8
+  Fly:
+      enabled: true
+      autoban: true
+      alert: true
+      VLForBan: 12
+  SpeedHack:
+      enabled: true
+      autoban: true
+      alert: true
+      VLForBan: 8
+  NoFall:
+      enabled: true
+      autoban: true
+      alert: true
+      VLForBan: 6
+  FastBow:
+      enabled: true
+      autoban: true
+      alert: true
+      VLForBan: 9
+
+debug: false
+
+
+########################################################
+#                 TigerHack | Anti-Cheat               #
+########################################################

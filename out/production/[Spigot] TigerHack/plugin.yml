@@ -1,0 +1,6 @@
+name: TigerHack
+authors: [SmakYop, iPazu]
+version: 1.0-SNAPSHOT
+main: com.cheat.tiger.TigerHack
+commands:
+    tigerhack:

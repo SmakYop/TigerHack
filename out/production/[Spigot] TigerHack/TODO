@@ -1,0 +1,20 @@
+Permissions:
+
+Alertes : tigerhack.alert
+Voir les Report : tigerhack.report.view
+Commande : tigerhack.command
+Voir les alertes : tigerhack.alert.view
+
+All : tigerhack.*
+
+
+
+Liste des Bypass :
+
+- Join le server
+- Teleportation
+- GameMode
+- Speed Effect
+- Respawn
+- Sur une monture (animal)
+- Op (si désactivé dans la config)
