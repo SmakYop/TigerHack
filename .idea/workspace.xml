@@ -7,86 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e01f090-3814-413c-b615-b2cc449e13de" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/_Spigot__TigerHack_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ProtocolLib.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_7_10_SNAPSHOT_b1657.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/[Spigot] TigerHack.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/TODO" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/Licence.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/TigerHack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/TigerPlayer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/Cheat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/ProtocolManagement.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/protocol/combat/FastBow.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/protocol/combat/Forcefield.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/protocol/movements/Fly.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/protocol/movements/NoFall.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/protocol/movements/SecondFly.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/cheat/protocol/movements/SpeedHack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/commands/TigerCommand.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/config/BansConfiguration.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/config/LogsConfiguration.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/config/TigerConfig.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/database/Database.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/ListenersManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/bypass/PlayerVelocityListener$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/bypass/PlayerVelocityListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/player/PlayerJoinListener$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/player/PlayerJoinListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/player/PlayerLoginListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/listeners/player/PlayerQuitListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/manager/AlertManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/manager/LagManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/manager/TigerManager$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/manager/TigerManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilBlock.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilCheat$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilCheat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilMath.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilPlayer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilTime$TimeUnit.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/com/cheat/tiger/util/UtilTime.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/config.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/[Spigot] TigerHack/plugin.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TODO" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/Licence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/TigerHack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/TigerPlayer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/Cheat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/ProtocolManagement.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/protocol/combat/FastBow.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/protocol/combat/Forcefield.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/protocol/movements/Fly.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/protocol/movements/NoFall.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/protocol/movements/SecondFly.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/protocol/movements/SpeedHack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/commands/TigerCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/config/BansConfiguration.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/config/LogsConfiguration.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/config/TigerConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/database/Database.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/listeners/ListenersManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/listeners/bypass/PlayerVelocityListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/listeners/player/PlayerJoinListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/listeners/player/PlayerLoginListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/listeners/player/PlayerQuitListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/manager/AlertManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/manager/LagManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/manager/TigerManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/util/UtilBlock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/util/UtilCheat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/util/UtilMath.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/util/UtilPlayer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/util/UtilTime.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/config.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/plugin.yml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/Cheat.java" afterPath="$PROJECT_DIR$/src/com/cheat/tiger/cheat/Cheat.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,8 +73,8 @@
       <file leaf-file-name="Cheat.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/cheat/tiger/cheat/Cheat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="420">
+              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -903,7 +825,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515100773345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1515101497272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515101497273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -922,7 +851,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21630435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098913044" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1244,8 +1173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cheat/tiger/cheat/Cheat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="420">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

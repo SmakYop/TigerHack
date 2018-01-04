@@ -27,7 +27,6 @@ public enum  Cheat {
 
     private int id;
     private String reason;
-    private String bite;
     private String banReason = "Unfair Advantage";
 
     Cheat(int id, String reason){
